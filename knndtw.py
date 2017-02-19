@@ -1,7 +1,11 @@
 from fastdtw import fastdtw
 from sklearn.neighbors import KNeighborsClassifier
 
+
+
+
 class knndtw(object):
+    
     def __init__(self, n_neighbors=5, n_weights = 'uniform'):
         self.n_neighbors = n_neighbors
         self.n_weights = n_weights
