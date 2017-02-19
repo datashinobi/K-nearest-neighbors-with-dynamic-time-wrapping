@@ -15,6 +15,6 @@ This repo contains a python implementation using Scikit learn and fastDTW that p
 
 1.  A. Bagnall and J. Lines. An experimental evaluation of nearest neighbour time series classification https://arxiv.org/abs/1406.4757
 
-2.  K Nearest Neighbors & Dynamic Time Warping htps://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping
+2.  K Nearest Neighbors & Dynamic Time Warping  htps://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping
 
 3. Ding, Hui; Trajcevski, Goce; Scheuermann, Peter; Wang, Xiaoyue; Keogh, Eamonn (2008). "Querying and mining of time series data: experimental comparison of representations and distance measures".http://dl.acm.org/citation.cfm?id=2429754
